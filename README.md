@@ -25,7 +25,7 @@ A React-based **Cash Withdrawal App** that allows users to withdraw money using 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cash-withdrawal-app.git
+   git clone https://github.com/Darshanas17/Cash-Withdrawal-App-React.git
    cd cash-withdrawal-app
    ```
 2. Install dependencies:
